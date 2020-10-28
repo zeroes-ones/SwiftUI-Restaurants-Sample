@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Hippolyte",
+        "repositoryURL": "https://github.com/JanGorman/Hippolyte",
+        "state": {
+          "branch": null,
+          "revision": "9c7794caffa5caf2ddaaa67ea7d27f712e0b937d",
+          "version": "1.2.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
